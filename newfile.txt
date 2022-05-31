@@ -1,2 +1,6 @@
 #
 This is a new file
+
+This is some changes on the file
+
+my-new-branch - here is first editing
